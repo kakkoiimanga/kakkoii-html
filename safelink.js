@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="know-several-types-of-insurance.html"}
-if(x=="2"){xxx="fire-claims-tips-for-filing-insurance-claim.html"}
-if(x=="3"){xxx="3-Forms-of-Insurance-All-American-Adults-Should-Have.html"}
-if(x=="4"){xxx="The-Reasons-Which-Trigger-Liability-Insurance-Extensively.html"}a_to_ve[i].href="https://www.kakkoiisafe.us/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="vampir-dalam-legenda-dan-mitologi.html"}
+if(x=="2"){xxx="5-hantu-jepang-yang-paling-menyeramkan.html"}
+if(x=="3"){xxx="ini-dia-9-dunia-dalam-mitologi-nordik.html"}
+if(x=="4"){xxx="makhluk-mitologi-jepang-yang-paling.html"}a_to_ve[i].href="https://kirikiribas.blogspot.com/2016/11"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
